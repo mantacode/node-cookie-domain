@@ -1,6 +1,6 @@
 {
   "name": "cookie-domain",
-  "version": "0.0.0-alpha",
+  "version": "0.0.0",
   "description": "Express middleware for dynamically setting the cookie domain.",
   "main": "index.js",
   "scripts": {
